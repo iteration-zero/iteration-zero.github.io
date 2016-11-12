@@ -2,5 +2,5 @@
 layout: default
 ---
 
-- C#
+- [C#]({{ site.baseurl }}/coding-standards/c-sharp)
 - JavaScript
