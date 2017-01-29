@@ -9,4 +9,5 @@ layout: default
     - src
         - code
         - tests
+    - .gitignore
     - ReadMe.md
